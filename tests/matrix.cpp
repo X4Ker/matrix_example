@@ -1,6 +1,6 @@
 #include <catch.hpp>
 #include <sstream>
-
+#include <string>
 #include "matrix.hpp"
 
 TEST_CASE("creating matrix")
